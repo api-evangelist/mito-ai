@@ -1,0 +1,50 @@
+generated: '2026-07-20'
+method: searched
+source: https://pypi.org/user/mito-ds/ , https://github.com/mito-ds
+packages:
+  - language: python
+    registry: pypi
+    name: mitosheet
+    url: https://pypi.org/project/mitosheet/
+    install: pip install mitosheet
+    repository: https://github.com/mito-ds/mito
+    description: The Mito Spreadsheet Jupyter extension.
+    official: true
+  - language: python
+    registry: pypi
+    name: mito-ai
+    url: https://pypi.org/project/mito-ai/
+    install: pip install mito-ai
+    repository: https://github.com/mito-ds/monorepo
+    description: AI chat for JupyterLab (Mito AI / Data Copilot).
+    official: true
+  - language: python
+    registry: pypi
+    name: mitosheet3
+    url: https://pypi.org/project/mitosheet3/
+    install: pip install mitosheet3
+    description: The Mito Spreadsheet (JupyterLab 3 distribution).
+    official: true
+  - language: python
+    registry: pypi
+    name: mito-ai-mcp
+    url: https://pypi.org/project/mito-ai-mcp/
+    install: uvx mito-ai-mcp
+    description: Mito AI MCP server package (stdio MCP server).
+    official: true
+  - language: python
+    registry: pypi
+    name: mitoinstaller
+    url: https://pypi.org/project/mitoinstaller/
+    install: pip install mitoinstaller
+    repository: https://github.com/mito-ds/monorepo
+    description: Installer helper for the Mito packages.
+    official: true
+  - language: javascript
+    registry: npm
+    name: mitosheet
+    url: https://www.npmjs.com/package/mitosheet
+    install: npm install mitosheet
+    license: BSD-3-Clause
+    description: The Mito Spreadsheet (JavaScript/JupyterLab frontend).
+    official: true

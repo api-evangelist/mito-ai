@@ -1,0 +1,212 @@
+# Mito
+
+## Mito
+
+- [Mito Documentation](https://docs.trymito.io/readme.md): Automate your repetitive Excel reports. No computer science degree required.
+- [Installing Mito](https://docs.trymito.io/getting-started/installing-mito.md): How to install the Mito spreadsheet and Mito AI for Jupyter.
+- [Installing Mito Using Pip](https://docs.trymito.io/getting-started/installing-mito/installing-mito-using-pip.md): Instructions for install Mito using the command line and the pip package manager.
+- [Fixing Common Install Errors](https://docs.trymito.io/getting-started/installing-mito/common-install-errors.md): The most Mito installation issues and how to fix them.
+- [Mito Desktop FAQ](https://docs.trymito.io/getting-started/installing-mito/mito-desktop-faq.md): Advice for getting started with the Mito Desktop app.
+- [Upgrading Mito Desktop](https://docs.trymito.io/getting-started/installing-mito/upgrading-mito-desktop.md): Notes on upgrading the desktop app and Mito AI packages.
+- [Installing Mito in JupyterHub](https://docs.trymito.io/getting-started/installing-mito/installing-mito-in-jupyterhub.md): Step by step instructions for using Mito in JupyterHub
+- [Installing Mito in a Docker Container](https://docs.trymito.io/getting-started/installing-mito/installing-mito-in-a-docker-container.md): Step by step instructions for installing Mito with a Docker file.
+- [Installing Mito for Streamlit](https://docs.trymito.io/getting-started/installing-mito/installing-mito-for-streamlit.md): Step by step instructions for installing Mito and Streamlit
+- [Installing Mito for Dash](https://docs.trymito.io/getting-started/installing-mito/installing-mito-for-dash.md): Step by step instructions for installing Mito and Dash
+- [Installing Mitosheet in VS Code](https://docs.trymito.io/getting-started/installing-mito/installing-mitosheet-in-vs-code.md): Instructions for getting your first Mitosheet open is VS Code or Cursor
+- [Setting Up a Virtual Environment](https://docs.trymito.io/getting-started/installing-mito/setting-up-a-virtual-environment.md)
+- [Mito AI Core Concepts](https://docs.trymito.io/mito-ai/data-copilot.md): Make your Python environment intelligent.
+- [Agent](https://docs.trymito.io/mito-ai/agent.md)
+- [Chat](https://docs.trymito.io/mito-ai/chat.md)
+- [Autocomplete](https://docs.trymito.io/mito-ai/autocomplete.md)
+- [Smart Debugging](https://docs.trymito.io/mito-ai/smart-debugging.md)
+- [Chart Wizard](https://docs.trymito.io/mito-ai/chart-wizard.md)
+- [Rules](https://docs.trymito.io/mito-ai/rules.md): Control how Mito AI behaves with reusable instructions.
+- [Configuring AI Provider Keys](https://docs.trymito.io/mito-ai/configuring-ai-provider-keys.md): This page explains how to configure Mito Data Copilot to use your own AI API keys instead of the Mito server.
+- [Using Github Copilot with Mito AI](https://docs.trymito.io/mito-ai/configuring-ai-provider-keys/using-github-copilot-with-mito-ai.md)
+- [Database Connectors](https://docs.trymito.io/mito-ai/database-connectors.md): Use Mito AI to query you databases in natural language.
+- [Database Drivers](https://docs.trymito.io/mito-ai/database-connectors/database-drivers.md)
+- [Microsoft SQL Server](https://docs.trymito.io/mito-ai/database-connectors/microsoft-sql-server.md)
+- [Snowflake](https://docs.trymito.io/mito-ai/database-connectors/snowflake.md)
+- [Mito AI MCP Server](https://docs.trymito.io/mito-ai/mito-ai-mcp-server.md): Connect and use the Mito Agent in your application of choice using an MCP server
+- [AI Data Usage FAQ](https://docs.trymito.io/mito-ai/ai-data-usage-faq.md)
+- [Mito Apps](https://docs.trymito.io/apps/overview.md): Deploy your Jupyter notebooks as Streamlit apps with the click of a button.
+- [Core Concepts](https://docs.trymito.io/how-to/overview-of-the-mitosheet.md): Introduces you to the high-level concepts helpful in understanding how the Mitosheet works.
+- [Creating a Mitosheet](https://docs.trymito.io/how-to/creating-a-mitosheet.md): Use Mito to generate Python code, start automating your Excel processes.
+- [Open Existing Virtual Environments](https://docs.trymito.io/how-to/creating-a-mitosheet/open-existing-virtual-environments.md): Reopen your existing virtual environments to keep working where you left off.
+- [Importing Data](https://docs.trymito.io/how-to/importing-data-to-mito.md)
+- [Importing CSV Files](https://docs.trymito.io/how-to/importing-data-to-mito/importing-csv-files.md): How to import a CSV file into Mito.
+- [Importing from Excel Files](https://docs.trymito.io/how-to/importing-data-to-mito/importing-from-excel-files.md): How to import a Excel file into Mito.
+- [Importing Dataframes](https://docs.trymito.io/how-to/importing-data-to-mito/importing-dataframes.md): How to import dataframes file into Mito.
+- [Importing from a remote drive](https://docs.trymito.io/how-to/importing-data-to-mito/importing-from-a-remote-drive.md): How to import CSV and Excel files from a remote file system.
+- [Import: Generated UI from any Python Function](https://docs.trymito.io/how-to/importing-data-to-mito/import-generated-ui-from-any-python-function.md): Automatically generate UI's to import data from your enterprise's databases.
+- [Importing from other sources](https://docs.trymito.io/how-to/importing-data-to-mito/importing-from-other-sources.md): Import any pandas dataframe into Mito.
+- [Graphing](https://docs.trymito.io/how-to/graphing.md): This documentation explains how to create presentation-ready graphs in Mito.
+- [Graph Creation](https://docs.trymito.io/how-to/graphing/graph-creation.md): Generate interactive, presentation-ready graphs using Mito's point and click interface.
+- [Graph Styling](https://docs.trymito.io/how-to/graphing/graph-styling.md): Set graph titles, axises, colors and more to create presentation-ready graphs.
+- [Graph Export](https://docs.trymito.io/how-to/graphing/graph-export.md): Export your graphs as Python code, images or HTML files to share your insights with your peers.
+- [Graphing with AI](https://docs.trymito.io/how-to/graphing/graphing-with-ai.md): Create graphs in a single click using AI suggestions.
+- [Pivoting/Group By](https://docs.trymito.io/how-to/pivot-tables.md): Create Excel-like pivot tables using a spreadsheet interface.
+- [Filter](https://docs.trymito.io/how-to/filter-data.md): This documentation will teach you how to filter datasets in Mito.
+- [Filter By Condition](https://docs.trymito.io/how-to/filter-data/filter-by-condition.md): Use filter conditions like greater than, contains, starts with and much more to filter and explore your data.
+- [Filter By Value](https://docs.trymito.io/how-to/filter-data/filter-by-value.md): View the unique values in your dataset and filter them in/out.
+- [Mito AI](https://docs.trymito.io/how-to/mito-ai.md): Mito AI is one of the fastest ways to transform your data. This documentation explains how.
+- [AI Alerts](https://docs.trymito.io/how-to/mito-ai/ai-alerts.md): Mitosheet can audit your data, and surface issues and fixes.
+- [Suggested Columns](https://docs.trymito.io/how-to/mito-ai/suggested-columns.md): Get AI suggestions for new columns in your dataset.
+- [Summary Statistics](https://docs.trymito.io/how-to/summary-statistics.md): This documentation will teach you how to access the summary statistics and frequency chart for any data column.
+- [Type Changes](https://docs.trymito.io/how-to/type-changes.md): This documentation explains how to change the data type of data and formula columns using Mito's type casting features.
+- [Spreadsheet Formulas](https://docs.trymito.io/how-to/interacting-with-your-data.md): Write Excel-like spreadsheet formulas to edit your dataframes using Python.
+- [Custom Spreadsheet Functions](https://docs.trymito.io/how-to/interacting-with-your-data/bring-your-own-spreadsheet-functions.md): Create your own spreadsheet functions and share them with your entire organization.
+- [Formula Reference](https://docs.trymito.io/how-to/interacting-with-your-data/mito-spreadsheet-formulas.md): Mito supports 75+ of the most common Excel spreadsheet formulas, implemented in Python.
+- [Using VLOOKUP](https://docs.trymito.io/how-to/interacting-with-your-data/using-vlookup.md): Joining dataframes using a Python VLOOKUP formula in Mito.
+- [Editing Individual Cells](https://docs.trymito.io/how-to/editing-individual-cells.md): Edit your data with the ease of a spreadsheet.
+- [Combining Dataframes](https://docs.trymito.io/how-to/combining-dataframes.md): Join datasets together by selecting keys, concatenate dataframes on top of each other, or find unique values between datasets.
+- [Merge (horizontal)](https://docs.trymito.io/how-to/combining-dataframes/merging-datasets-together.md): Join the columns of two dataframes together.
+- [Concatenate (horizontal)](https://docs.trymito.io/how-to/combining-dataframes/concatenate-dataframes.md): Concatenating dataframes allows you to combine two or more dataframes by stacking their rows on top of each other.
+- [Anti-merge (unique)](https://docs.trymito.io/how-to/combining-dataframes/anti-merge-unique.md): Find records unique to one dataframe.
+- [Sort Data](https://docs.trymito.io/how-to/sort-data.md): This documentation will teach you how to sort data columns in Mito.
+- [Split Text to Columns](https://docs.trymito.io/how-to/split-text-to-columns.md): Split a column into multiple based on a delimiter.
+- [Deleting Columns](https://docs.trymito.io/how-to/deleting-columns.md): Remove entire columns from your dataframe just using your keyboard.
+- [Deleting Rows](https://docs.trymito.io/how-to/deleting-rows.md): Remove entire rows from your dataframe just using your keyboard.
+- [Column Headers](https://docs.trymito.io/how-to/column-headers.md): Column headers identify the specific column within your dataframe. Mito provides a variety of tools for working with column headers directly.
+- [Editing Column Headers](https://docs.trymito.io/how-to/column-headers/editing-column-headers.md): Rename your column headers with the ease of a spreadsheet.
+- [Promote Row to Header](https://docs.trymito.io/how-to/column-headers/promote-row-to-header.md): Select a row of your dataframe to become the new column headers.
+- [Deduplicate](https://docs.trymito.io/how-to/deduplicate.md): Deduplicate repeated entries from your dataframe.
+- [Fill NaN Values](https://docs.trymito.io/how-to/fill-nan-values.md): NaN values are one of the most common sources of errors. Use Mito's Fill NaN values taskpane to choose how you handle your missing values.
+- [Transpose](https://docs.trymito.io/how-to/transpose.md): Convert your columns into rows, and rows into columns.
+- [Reset Index](https://docs.trymito.io/how-to/reset-index.md): Reset your dataframe's Index after sorting, filtering, or importing your data to cleanup your workspace.
+- [Unpivot a Dataframe (Melt)](https://docs.trymito.io/how-to/unpivot-a-dataframe-melt.md): Convert a dataframe from wide format to long format.
+- [Formatting](https://docs.trymito.io/how-to/formatting.md): Format your dataframe to generate presentation-ready Excel files.
+- [Column Formatting](https://docs.trymito.io/how-to/formatting/column-formatting.md): Format numbers as currency, percentage, accounting, scientific notation or more.
+- [Dataframe Colors](https://docs.trymito.io/how-to/formatting/dataframe-colors.md): Changing the color and style of the dataframe within Mito.
+- [Conditional Formatting](https://docs.trymito.io/how-to/formatting/conditional-formatting.md): Explore or highlight your data by changing the format of specific cells.
+- [Exporting Data](https://docs.trymito.io/how-to/exporting-to-csv-and-excel.md): This documentation explains how to get data out of Mito.
+- [Download as CSV](https://docs.trymito.io/how-to/exporting-to-csv-and-excel/download-as-csv.md): Export a single dataframe to a CSV file.
+- [Download as Excel](https://docs.trymito.io/how-to/exporting-to-csv-and-excel/download-as-excel.md): Export dataframes to an Excel file.
+- [Generate code to create Excel and CSV reports](https://docs.trymito.io/how-to/exporting-to-csv-and-excel/generate-code-to-create-excel-and-csv-reports.md): Generate an Excel or CSV file each time you run your code.
+- [Using the Generated Code](https://docs.trymito.io/how-to/using-the-generated-code.md): Use Mito generated code to complete your analysis or automate your reports.
+- [Turn generated code into functions](https://docs.trymito.io/how-to/using-the-generated-code/turn-generated-code-into-functions.md): Convert the Mito generated code into a Python function to make it even easier to reuse.
+- [Changing Imported Data](https://docs.trymito.io/how-to/changing-imported-data.md): Rerun your Mito analysis on new data to refresh a report.
+- [Code Snippets](https://docs.trymito.io/how-to/code-snippets.md): This documentation will teach you how to use code snippets and import your own
+- [Custom Editors: Autogenerate UI from Any Function](https://docs.trymito.io/how-to/custom-editors-autogenerate-ui-from-any-function.md): Extend Mito with custom dataframe transformations, like proprietary algorithms, calculations, and domain-specific knowledge.
+- [Find and Replace](https://docs.trymito.io/how-to/find-and-replace.md): The quickest way to check if values exist in your data, and substitute them with others.
+- [Bulk column header edits](https://docs.trymito.io/how-to/bulk-column-header-edits.md): Transform all of the column headers in your dataframe with just one click of a button.
+- [Code Options](https://docs.trymito.io/how-to/code-options.md): Customize your Mito generated code by converting it to a function, selecting parameters and more.
+- [Scheduling your Automation](https://docs.trymito.io/how-to/scheduling-your-automation.md): Create fully automated processes by scheduling your Python script to run on GitHub
+- [Keyboard Shortcuts](https://docs.trymito.io/how-to/keyboard-shortcuts.md): Speed up your Mito workflow with keyboard shortcuts!
+- [Upgrading Mito](https://docs.trymito.io/how-to/upgrading-mito.md): We move quick. Upgrade to get the latest and greatest.
+- [Enterprise Logging](https://docs.trymito.io/how-to/enterprise-logging.md): Connect Mito to your internal logging servers so you can track Python retention at your firm.
+- [Getting Started with Mito for Streamlit](https://docs.trymito.io/mito-for-streamlit/getting-started-with-mito-for-streamlit.md): Add a fully featured spreadsheet to your Streamlit app with just 2 lines of code.
+- [Streamlit Overview](https://docs.trymito.io/mito-for-streamlit/streamlit-overview.md): Turns data scripts into shareable web apps in minutes. All in pure Python. No front‑end experience required.
+- [Create a Mito for Streamlit App](https://docs.trymito.io/mito-for-streamlit/create-a-mito-for-streamlit-app.md): A Quickstart guide to creating your first Streamlit app with the Mito Spreadsheet.
+- [API Reference](https://docs.trymito.io/mito-for-streamlit/api-reference.md)
+- [Understanding import\_folder](https://docs.trymito.io/mito-for-streamlit/api-reference/understanding-import_folder.md)
+- [RunnableAnalysis class](https://docs.trymito.io/mito-for-streamlit/api-reference/runnableanalysis-class.md): An easier way to replay your analysis on new data
+- [Column Definitions](https://docs.trymito.io/mito-for-streamlit/api-reference/column-definitions.md)
+- [Streamlit App Gallery](https://docs.trymito.io/mito-for-streamlit/streamlit-app-gallery.md): Some of our favorite Mito for Streamlit apps.
+- [Experienced Streamlit Users](https://docs.trymito.io/mito-for-streamlit/experienced-streamlit-users.md)
+- [Common Design Patterns](https://docs.trymito.io/mito-for-streamlit/common-design-patterns.md)
+- [Deploying Mito for Streamlit in a Docker Image](https://docs.trymito.io/mito-for-streamlit/common-design-patterns/deploying-mito-for-streamlit-in-a-docker-image.md): A Step-by-step guide to deploying Mito for Streamlit in a Docker Image.
+- [Using Mito for Final Mile Data Cleaning](https://docs.trymito.io/mito-for-streamlit/common-design-patterns/using-mito-for-final-mile-data-cleaning.md): Ensuring data is production-ready by using the Mito spreadsheet in Streamlit.
+- [Getting Started](https://docs.trymito.io/mito-for-dash/getting-started.md): Add a fully featured spreadsheet to your Dash app with just a couple of lines of code.
+- [Dash Overview](https://docs.trymito.io/mito-for-dash/dash-overview.md): Create data apps in Python.
+- [Your First Dash App with Mito](https://docs.trymito.io/mito-for-dash/your-first-dash-app-with-mito.md): A Quickstart guide to creating your first Dash app with the Mito Spreadsheet.
+- [Mito vs. Other Dash Components](https://docs.trymito.io/mito-for-dash/mito-vs.-other-dash-components.md): Compare Dash grid components to find the best one for you.
+- [API Reference](https://docs.trymito.io/mito-for-dash/api-reference.md): Creating and interacting with the Mito Spreadsheet component in Dash.
+- [Understanding import\_folder](https://docs.trymito.io/mito-for-dash/api-reference/understanding-import_folder.md)
+- [Dash App Gallery](https://docs.trymito.io/mito-for-dash/dash-app-gallery.md): More apps coming soon!
+- [Common Design Patterns](https://docs.trymito.io/mito-for-dash/common-design-patterns.md): Want to do something specific with your Mito sheet in Dash? Check out the guides here:
+- [Refresh Sheet Data Periodically](https://docs.trymito.io/mito-for-dash/common-design-patterns/refresh-sheet-data-periodically.md): Change the data that is displayed in your spreadsheet.
+- [Change Sheet Data from a Select](https://docs.trymito.io/mito-for-dash/common-design-patterns/change-sheet-data-from-a-select.md): Refresh your analysis with new data, configured through a Dash select component.
+- [Filter Other Elements to Data Selected in Mito](https://docs.trymito.io/mito-for-dash/common-design-patterns/filter-other-elements-to-data-selected-in-mito.md): Subscribe to the spreadsheet\_selection to enable cross filtering
+- [Graph New Data after Edits to Mito](https://docs.trymito.io/mito-for-dash/common-design-patterns/graph-new-data-after-edits-to-mito.md): Build dynamic graphs that update to your users's Mito edits.
+- [Set Mito Spreadsheet Theme](https://docs.trymito.io/mito-for-dash/common-design-patterns/set-mito-spreadsheet-theme.md)
+- [Pass a dataframe into Mito](https://docs.trymito.io/how-to-1/pass-a-dataframe-into-mito.md): Query a database, or scrape a table from a website and import the dataframe into Mito. Import any Pandas dataframe into Mito.
+- [Create a line chart of time series data](https://docs.trymito.io/how-to-1/create-a-line-chart-of-time-series-data.md): A step-by-step guide to visualizing time series data with Mito graphing.
+- [Delete Columns with Missing Values](https://docs.trymito.io/how-to-1/delete-columns-with-missing-values.md): A step-by-step guide to scanning through your dataframe for columns with missing values, and deleting them.
+- [Split a column on delimiter](https://docs.trymito.io/how-to-1/split-a-column-on-delimiter.md): A step-by-step guide to using Mito's Split Text to Columns taskpane.
+- [Rerun analysis on new data](https://docs.trymito.io/how-to-1/rerun-analysis-on-new-data.md): A step-by-step guide to reusing your Python code to refresh a report with new data.
+- [Calculate the difference between rows](https://docs.trymito.io/how-to-1/calculate-the-difference-between-rows.md): A step-by-step guide to referencing a previous row in a spreadsheet formula.
+- [Calculate each cell's percent total of column](https://docs.trymito.io/how-to-1/calculate-each-cells-percent-total-of-column.md): A step-by-step guide to calculating each cell's percent total of the column
+- [Import multiple tables from one Excel sheet](https://docs.trymito.io/how-to-1/import-multiple-tables-from-one-excel-sheet.md): This tutorial shows how to import an Excel file that contains multiple tables on one sheet as multiple dataframes in Mito.
+- [Share Mito Spreadsheets Across Users](https://docs.trymito.io/how-to-1/share-mito-spreadsheets-across-users.md): This documentation explains how to set an environment variable to share Mito spreadsheets using shared drives.
+- [Release Notes](https://docs.trymito.io/misc/release-notes.md): See subpages for all Mito releases.
+- [Mar 26, 2026 - Spreadsheets and More](https://docs.trymito.io/misc/release-notes/mar-26-2026-spreadsheets-and-more.md): Better Excel to Python conversion, new models and Jupyter Hub improvements
+- [Jan 29, 2026 - Abacus AI](https://docs.trymito.io/misc/release-notes/jan-29-2026-abacus-ai.md): Added support for enterprise users using Abacus AI
+- [Jan 14, 2026 - Chart Wizard](https://docs.trymito.io/misc/release-notes/jan-14-2026-chart-wizard.md): Less guesswork, fewer messy notebooks, and faster control over your charts.
+- [January 7, 2026 - Something for Everyone](https://docs.trymito.io/misc/release-notes/january-7-2026-something-for-everyone.md): A grab bag of updates that improve the Mito AI experience.
+- [December 17, 2025 - Glow Up](https://docs.trymito.io/misc/release-notes/december-17-2025-glow-up.md): A new theme to elevate your notebook experience.
+- [December 5, 2025 - Show Your Work, Agent](https://docs.trymito.io/misc/release-notes/december-5-2025-show-your-work-agent.md): Lots of small changes that make a big difference.
+- [October 1, 2025 - Claude 4.5](https://docs.trymito.io/misc/release-notes/october-1-2025-claude-4.5.md): Stop Agent!
+- [Sept 3, 2025 - Mito Vision](https://docs.trymito.io/misc/release-notes/sept-3-2025-mito-vision.md): Mito AI now has eyes!
+- [Aug 27, 2025 - Uploading Files](https://docs.trymito.io/misc/release-notes/aug-27-2025-uploading-files.md): Upload your files to let Mito Ai get to work on your data right away.
+- [July 24, 2025 - Making Assumptions](https://docs.trymito.io/misc/release-notes/july-24-2025-making-assumptions.md): Peer into the mind that is Mito AI
+- [July 13, 2025 - Revamped Agent UI](https://docs.trymito.io/misc/release-notes/july-13-2025-revamped-agent-ui.md): If you fail once, try, try again.
+- [July 1, 2025 - More Models, More Next Steps](https://docs.trymito.io/misc/release-notes/july-1-2025-more-models-more-next-steps.md): Choose from the best of the best models from OpenAI, Anthropic, and Google
+- [June 9 - Follow the rules (0.1.23)](https://docs.trymito.io/misc/release-notes/june-9-follow-the-rules-0.1.23.md): Control how Mito AI behaves with reusable, scoped instructions.
+- [May 28 - Just a Query Away](https://docs.trymito.io/misc/release-notes/may-28-just-a-query-away.md): At long last, SQL arrives in Mito AI.
+- [April 15 - Now Streaming (0.1.18)](https://docs.trymito.io/misc/release-notes/april-15-now-streaming-0.1.18.md): You're new favorite streaming service is... Mito? Mito AI now streams responses live to the frontend — no more waiting, no more wondering what it’s thinking.
+- [March 21 - Smarter, Faster, Stronger Agents](https://docs.trymito.io/misc/release-notes/march-21-smarter-faster-stronger-agents.md): Agents continue to get smarter, performance gets a bump, and free tier users have more time to see what makes Mito great.
+- [February 25 - Agent Mode QoL Improvements](https://docs.trymito.io/misc/release-notes/february-25-agent-mode-qol-improvements.md): Following last week's release of Agent mode, we've made a few quality of life improvements.
+- [February 18 - Mito Agents](https://docs.trymito.io/misc/release-notes/february-18-mito-agents.md): We’re excited to introduce Agent Mode, our latest feature designed to streamline your workflow. Agents take automation to the next level—helping you plan and execute tasks step by step.
+- [January 2nd - Inline Completions Arrive](https://docs.trymito.io/misc/release-notes/january-2nd-inline-completions-arrive.md): Happy New Year! We're kicking off 2025 with some exciting updates to Mito AI. This includes inline completions, a more intuitive chat workflow, and dark mode.
+- [December 6th - Smarter Workflow](https://docs.trymito.io/misc/release-notes/december-6th-smarter-workflow.md): A streamlined workflow, improved data handling, and polished UI make Mito AI smarter and more intuitive than ever.
+- [November 27th - @ Mentions, Mito AI Server](https://docs.trymito.io/misc/release-notes/november-27th-mentions-mito-ai-server.md)
+- [November 4th, 2024 - Hello Mito AI](https://docs.trymito.io/misc/release-notes/november-4th-2024-hello-mito-ai.md): We've released a new package mito-ai that adds
+- [October 8, 2024 - JupyterLab 4](https://docs.trymito.io/misc/release-notes/october-8-2024-jupyterlab-4.md)
+- [Aug 29th, 2024](https://docs.trymito.io/misc/release-notes/aug-29th-2024.md)
+- [June 12, 2024](https://docs.trymito.io/misc/release-notes/june-12-2024.md)
+- [March 19, 2024](https://docs.trymito.io/misc/release-notes/march-19-2024.md)
+- [March 13th, 2024](https://docs.trymito.io/misc/release-notes/march-13th-2024.md)
+- [February 12th, 2024: Graphing Improvements](https://docs.trymito.io/misc/release-notes/february-12th-2024-graphing-improvements.md)
+- [January 25th, 2024](https://docs.trymito.io/misc/release-notes/january-25th-2024.md)
+- [January 5th, 2023: Keyboard Shortcuts](https://docs.trymito.io/misc/release-notes/january-5th-2023-keyboard-shortcuts.md): Become a Mito power user with keyboard shortcuts
+- [December 6, 2023: New Context Menu](https://docs.trymito.io/misc/release-notes/december-6-2023-new-context-menu.md)
+- [November 28, 2023: Mito's New Toolbar](https://docs.trymito.io/misc/release-notes/november-28-2023-mitos-new-toolbar.md): Navigate Mito quicker with the new toolbar design!
+- [November 7, 2023: Multiplayer Dash](https://docs.trymito.io/misc/release-notes/november-7-2023-multiplayer-dash.md): Deploy the Mito Spreadsheet component in Dash environments with multiple users.
+- [October 23, 2023: RunnableAnalysis class](https://docs.trymito.io/misc/release-notes/october-23-2023-runnableanalysis-class.md): Automate analyses in dashboards
+- [October 16, 2023: Mito for Dash, Custom Editors](https://docs.trymito.io/misc/release-notes/october-16-2023-mito-for-dash-custom-editors.md)
+- [September 29, 2023: VLOOKUP and Find and Replace!](https://docs.trymito.io/misc/release-notes/september-29-2023-vlookup-and-find-and-replace.md)
+- [September 7, 2023](https://docs.trymito.io/misc/release-notes/september-7-2023.md)
+- [August 2, 2023: Mito for Streamlit!](https://docs.trymito.io/misc/release-notes/august-2-2023-mito-for-streamlit.md)
+- [July 10, 2023](https://docs.trymito.io/misc/release-notes/july-10-2023.md)
+- [May 31, 2023: Mito AI Recon](https://docs.trymito.io/misc/release-notes/may-31-2023-mito-ai-recon.md)
+- [May 19, 2023: Mito AI Chat!](https://docs.trymito.io/misc/release-notes/may-19-2023-mito-ai-chat.md)
+- [April 27, 2023: Generate Functions, Performance improvements, bulk column header transformations](https://docs.trymito.io/misc/release-notes/april-27-2023-generate-functions-performance-improvements-bulk-column-header-transformations.md)
+- [April 18, 2023: Cell Editor Improvements, BYO Large Language Model, and more](https://docs.trymito.io/misc/release-notes/april-18-2023-cell-editor-improvements-byo-large-language-model-and-more.md)
+- [April 10, 2023: AI Access, Excel-like Cell Editor, Performance Improvements](https://docs.trymito.io/misc/release-notes/april-10-2023-ai-access-excel-like-cell-editor-performance-improvements.md)
+- [April 5, 2023: Range formulas, Pandas 2.0, Snowflake Views](https://docs.trymito.io/misc/release-notes/april-5-2023-range-formulas-pandas-2.0-snowflake-views.md)
+- [March 29, 2023: Excel Range Import Improvements](https://docs.trymito.io/misc/release-notes/march-29-2023-excel-range-import-improvements.md)
+- [March 14, 2023: Mito AI, Public Interface Versioning](https://docs.trymito.io/misc/release-notes/march-14-2023-mito-ai-public-interface-versioning.md)
+- [February 28, 2023: In-place Pivot Errors](https://docs.trymito.io/misc/release-notes/february-28-2023-in-place-pivot-errors.md)
+- [February 7, 2023: Excel-like Formulas, Snowflake Import](https://docs.trymito.io/misc/release-notes/february-7-2023-excel-like-formulas-snowflake-import.md)
+- [January 23, 2023: Excel range importing](https://docs.trymito.io/misc/release-notes/january-23-2023-excel-range-importing.md)
+- [January 8, 2023: Custom Code snippets](https://docs.trymito.io/misc/release-notes/january-8-2023-custom-code-snippets.md)
+- [December 26, 2022: Code snippets and bug fixes](https://docs.trymito.io/misc/release-notes/december-26-2022-code-snippets-and-bug-fixes.md)
+- [December 12, 2022: Group Dates in Pivot Tables, Reduced Dependencies](https://docs.trymito.io/misc/release-notes/december-12-2022-group-dates-in-pivot-tables-reduced-dependencies.md)
+- [November 15, 2022: Filter in Pivot](https://docs.trymito.io/misc/release-notes/november-15-2022-filter-in-pivot.md)
+- [November 9, 2022: Import and Enterprise Config](https://docs.trymito.io/misc/release-notes/november-9-2022-import-and-enterprise-config.md)
+- [October 31, 2022: Replay Analysis Improvements](https://docs.trymito.io/misc/release-notes/october-31-2022-replay-analysis-improvements.md)
+- [Old Release Notes](https://docs.trymito.io/misc/release-notes/release-notes.md): Want to see what is new in the Mitosheet? Check it out below.
+- [August 10, 2023: Export Formatting to Excel](https://docs.trymito.io/misc/release-notes/august-10-2023-export-formatting-to-excel.md)
+- [Debugging Guides](https://docs.trymito.io/misc/debugging-guides.md)
+- [LiteLLM Models Not Appearing in Mito](https://docs.trymito.io/misc/debugging-guides/litellm-models-not-appearing-in-mito.md)
+- [Mito Enterprise Features](https://docs.trymito.io/misc/mito-enterprise-features.md): Features that are unique to Mito Enterprise help drive Python adoption and allow you to integrate Mito into existing enterprise infrastructure.
+- [FAQ](https://docs.trymito.io/misc/faq.md): Commonly asked questions about Mito, answered.
+- [Terms of Service](https://docs.trymito.io/misc/terms-of-service.md): This is Mito's Terms of Service. By using Mito, you are accepting these terms of service.
+- [Privacy Policy](https://docs.trymito.io/misc/privacy-policy.md): This is Mito's Privacy Policy. By using Mito, you are accepting these terms of service.
+
+
+---
+
+# Agent Instructions
+This documentation is published with GitBook. GitBook is the documentation platform designed so that both humans and AI agents can read, navigate, and reason over technical content effectively. Learn more at gitbook.com.
+
+## Querying This Documentation
+If you need additional information, you can query the documentation dynamically by asking a question.
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+```
+GET https://docs.trymito.io/readme.md?ask=<question>
+```
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.
