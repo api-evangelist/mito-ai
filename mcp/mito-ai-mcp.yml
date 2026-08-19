@@ -7,22 +7,20 @@ server:
   transport: stdio
   package: mito-ai-mcp
   command: uvx
-  args: [mito-ai-mcp]
-  description: >-
-    Official Mito AI MCP server. Enables LLMs to perform better data analysis
-    and visualization, including best-in-class Excel-to-Python workflows, by
-    connecting the Mito Agent into an MCP-capable client.
+  args:
+  - mito-ai-mcp
+  description: Official Mito AI MCP server. Enables LLMs to perform better data analysis and visualization,
+    including best-in-class Excel-to-Python workflows, by connecting the Mito Agent into an MCP-capable
+    client.
 install:
   claude_code: claude mcp add --transport stdio mito-ai -- uvx mito-ai-mcp
   claude_desktop: Download and open the .mcpb bundle from the latest GitHub release.
-  cursor_vscode: |
-    {
-      "mcpServers": {
-        "mito-ai": {
-          "command": "uvx",
-          "args": ["mito-ai-mcp"]
-        }
-      }
-    }
+  cursor_vscode: "{\n  \"mcpServers\": {\n    \"mito-ai\": {\n      \"command\": \"uvx\",\n      \"args\"\
+    : [\"mito-ai-mcp\"]\n    }\n  }\n}\n"
 docs: https://docs.trymito.io/mito-ai/mito-ai-mcp-server
-tools: []   # individual tool list not enumerated in provider docs
+tools: []
+deployment:
+  mode: local-stdio
+  verified: searched
+  checked: '2026-08-12'
+  source: catalog MCP census
