@@ -1,0 +1,36 @@
+# Front Door AI Index — mito-ai — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: mito-ai
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.trymito.io
+  final_host: www.trymito.io
+  ownership: own
+  owner: mito-ai
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 20
+  host_score: 20
+  density: 16.22
+  words: 1233
+  tiers:
+    agentic: 3
+    core: 10
+    model: 7
+  ambiguous: 2
+  top_terms:
+    AI: 7
+    LLMs: 3
+    OpenAI: 2
+    agent: 2
+    Anthropic: 1
+    Azure OpenAI: 1
+    Bedrock: 1
+    ChatGPT: 1
+    Gemini: 1
+    copilot: 1
+    inference: 1
+    prompts: 1
